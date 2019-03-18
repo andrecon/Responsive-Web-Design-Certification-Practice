@@ -1,0 +1,37 @@
+.blue-text
+{
+    color: blue;
+}
+
+h2 {
+    font-family: Lobster, monospace;
+}
+
+p {
+    font-size: 16px;
+    font-family: monospace;
+}
+
+.smaller-image{
+    width: 100px;
+}
+
+.thick-black-border{
+    border-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;        /* Circular Images with a border-radius */
+}
+
+.silver-background{
+    background-color: silver; 
+}
+
+#cat-photo-form{
+    background-color: brown;
+}
+
+[type='checkbox']
+{
+    margin: 10px 0px 15px 0px;
+}
