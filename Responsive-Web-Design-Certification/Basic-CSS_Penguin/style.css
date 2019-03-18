@@ -6,7 +6,7 @@
   }
 
 /*By creating your variables in :root, they will be available throughout the whole web page.*/
-@media (max-width: 420px) {
+@media (max-width: px) {
 
     :root {
         /* CSS Variable */
